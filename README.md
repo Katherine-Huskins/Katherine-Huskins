@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Katherine-Huskins
 - 👀 I’m interested in Back-End Development, Cyber Security, and Network Administration
-- 🌱 I’m currently learning Back-End Development
+- 🌱 I’m currently learning Back End Development and APIs
 - 😄 Pronouns: Any
